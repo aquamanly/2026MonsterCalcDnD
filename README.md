@@ -1,4 +1,4 @@
-# 5E 2025 Encounter Builder
+# 5E 2026 Encounter Builder
 
 A comprehensive web-based tool for creating and balancing D&D 5E combat encounters using official 5E 2025 rules combined with 4th Edition tactical design principles.
 
